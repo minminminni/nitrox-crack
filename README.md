@@ -1,6 +1,8 @@
 # nitrox-crack
 This is the newest version (1.8.1.0) of nitrox cracked by me. It works with any subnautica, cracked or bought.
 
+doesnt work with older versions.
+
 U can download compatible subnautica cracked by me here: 
 https://drive.google.com/drive/folders/1mze_5zIFfQLb1TMvvlXWqfqfFatU2a5k?usp=sharing
 
