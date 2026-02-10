@@ -19,8 +19,4 @@ For instructions on joining a server: https://nitrox.rux.gg/wiki/article/join-ni
 
 For instructions on hosting a server: https://nitrox.rux.gg/wiki/article/run-and-host-nitrox-subnautica-server
 
-# Support
-
-If you ever need help, find us on Discord: https://discord.gg/Rf8n88c
-
-To report any bugs, you can find us on Github : https://github.com/SubnauticaNitrox/Nitrox
+For reporting any bugs contact @fuckemcoppers on discord
